@@ -1,11 +1,13 @@
-#Easy Logger made Logging easy.
+##Easy Logger made Logging easy.
 
-## Log to files as well as to consoles.
+### Log to files as well as to consoles.
 
 #### This Project was made with my free time and will be released when i make changes to this project.
-## For ASP.NET and Microsoft's Dependency Injection service Middleware will be released soon.
+### For ASP.NET and Microsoft's Dependency Injection service Middleware will be released soon.
 
 ###Initialize the IEasyLogger interface with the FileLogger Instance.
+
+
 ```c#
 IEasyLogger easyLogger = new EasyFileLogger(Path.Combine(Environment.CurrentDirectory, "log.txt"));
 
@@ -30,7 +32,10 @@ easyLogger.Log("HELLO WORLD");
 /// <param name="logType">Type of the Log</param>
 easyLogger.Log(message: "HELLO WORLD", logType: LogType.Warning);
 ```
+
 ### Four types of Logging can be done
+
+
 ```c#
 public enum LogType { Debug, Info, Warning, Error }
 ```
