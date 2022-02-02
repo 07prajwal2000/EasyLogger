@@ -1,7 +1,3 @@
-﻿obj
-bin
-<<<<<<< HEAD
-.idea
-=======
-.idea
->>>>>>> origin/master
+﻿/obj
+/bin
+/.idea
