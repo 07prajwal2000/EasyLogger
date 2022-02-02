@@ -14,12 +14,14 @@ OR using Console Logger
 IEasyLogger easyLogger = new EasyConsoleLogger();
 ```
 
-####then Log with the
+###then Log with Message
 
 ```c#
 easyLogger.Log("HELLO WORLD");
 ```
+
 ###or
+
 ```c#
 /// <summary>
 /// Logs the message
