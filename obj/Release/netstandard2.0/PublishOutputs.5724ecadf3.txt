@@ -1,0 +1,7 @@
+D:\Programming-Projects\EasyLogger\EasyLogger\bin\Release\netstandard2.0\publish\EasyLogger.dll
+D:\Programming-Projects\EasyLogger\EasyLogger\bin\Release\netstandard2.0\publish\EasyLogger.deps.json
+D:\Programming-Projects\EasyLogger\EasyLogger\bin\Release\netstandard2.0\publish\EasyLogger.pdb
+D:\Programming-Projects\EasyLogger\EasyLogger\bin\Release\netstandard2.0\publish\System.Buffers.dll
+D:\Programming-Projects\EasyLogger\EasyLogger\bin\Release\netstandard2.0\publish\System.Memory.dll
+D:\Programming-Projects\EasyLogger\EasyLogger\bin\Release\netstandard2.0\publish\System.Numerics.Vectors.dll
+D:\Programming-Projects\EasyLogger\EasyLogger\bin\Release\netstandard2.0\publish\System.Runtime.CompilerServices.Unsafe.dll
