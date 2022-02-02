@@ -1,9 +1,9 @@
-##Easy Logger made Logging easy.
+<h1>Easy Logger made Logging easy.</h1>
 
-### Log to files as well as to consoles.
+<h2>Log to files as well as to consoles.</h2>
 
-#### This Project was made with my free time and will be released when i make changes to this project.
-### For ASP.NET and Microsoft's Dependency Injection service Middleware will be released soon.
+<h4>This Project was made with my free time and will be released when i make changes to this project.</h4>
+<h6>For ASP.NET and Microsoft's Dependency Injection service Middleware will be released soon.</h6>
 
 ###Initialize the IEasyLogger interface with the FileLogger Instance.
 
@@ -16,13 +16,13 @@ OR using Console Logger
 IEasyLogger easyLogger = new EasyConsoleLogger();
 ```
 
-###then Log with Message
+<h4>then Log with Message</h4>
 
 ```c#
 easyLogger.Log("HELLO WORLD");
 ```
 
-###or
+or
 
 ```c#
 /// <summary>
