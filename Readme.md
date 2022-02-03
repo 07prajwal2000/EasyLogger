@@ -19,6 +19,10 @@ IEasyLogger easyLogger = new EasyConsoleLogger();
 <h4>then Log with Message</h4>
 
 ```c#
+/// <summary>
+/// Logs the message
+/// </summary>
+/// <param name="message">The Message</param>
 easyLogger.Log("HELLO WORLD");
 ```
 

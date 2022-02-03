@@ -1,0 +1,112 @@
+Index: .idea/.idea.EasyLogger.dir/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"settings.editor.selected.configurable\" value=\"configurable.group.appearance\" />\r\n  </component>\r\n</project>
+===================================================================
+diff --git a/.idea/.idea.EasyLogger.dir/.idea/workspace.xml b/.idea/.idea.EasyLogger.dir/.idea/workspace.xml
+--- a/.idea/.idea.EasyLogger.dir/.idea/workspace.xml	
++++ b/.idea/.idea.EasyLogger.dir/.idea/workspace.xml	
+@@ -1,6 +1,102 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="ChangeListManager">
++    <list default="true" id="e0a1c3e9-c01c-437a-98bb-3e7cbcd781a1" name="Changes" comment="Initial">
++      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/.idea.EasyLogger.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EasyLogger.dir/.idea/workspace.xml" afterDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="HighlightingSettingsPerFile">
++    <setting file="file://$PROJECT_DIR$/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
++  </component>
++  <component name="MarkdownSettingsMigration">
++    <option name="stateVersion" value="1" />
++  </component>
++  <component name="ProjectId" id="24Yw98QDOql3b5ICYeMa7NE9Gg3" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
+   <component name="PropertiesComponent">
++    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
++    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
++    <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
++    <property name="vue.rearranger.settings.migration" value="true" />
++  </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="e0a1c3e9-c01c-437a-98bb-3e7cbcd781a1" name="Changes" comment="" />
++      <created>1643820675550</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1643820675550</updated>
++      <workItem from="1643820679668" duration="626000" />
++    </task>
++    <task id="LOCAL-00001" summary="Initial">
++      <created>1643820722284</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1643820722284</updated>
++    </task>
++    <task id="LOCAL-00002" summary="Initial">
++      <created>1643820875658</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1643820875658</updated>
++    </task>
++    <task id="LOCAL-00003" summary="Initial">
++      <created>1643820973151</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1643820973151</updated>
++    </task>
++    <task id="LOCAL-00004" summary="Initial">
++      <created>1643821085483</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1643821085483</updated>
++    </task>
++    <task id="LOCAL-00005" summary="Initial">
++      <created>1643821302264</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1643821302264</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
++    <servers />
++  </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
++  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
++  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
++  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
++    <MESSAGE value="Initial" />
++    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+   </component>
+ </project>
+\ No newline at end of file
