@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0a1c3e9-c01c-437a-98bb-3e7cbcd781a1" name="Changes" comment="Added Doc">
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netstandard2.0/EasyLogger.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.0/EasyLogger.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netstandard2.0/EasyLogger.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.0/EasyLogger.assets.cache" afterDir="false" />
+    <list default="true" id="e0a1c3e9-c01c-437a-98bb-3e7cbcd781a1" name="Changes" comment="Added support for Microsoft's DI framework">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EasyLogger.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EasyLogger.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netstandard2.0/EasyLogger.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.0/EasyLogger.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +23,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/obj/netstandard2.0/.NETStandard,Version=v2.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/obj/Debug/netstandard2.0/.NETStandard,Version=v2.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/obj/netstandard2.0/EasyLogger.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/obj/Debug/netstandard2.0/.NETStandard,Version=v2.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -84,8 +84,39 @@
       <option name="presentableId" value="Default" />
       <updated>1643876821287</updated>
       <workItem from="1643876826505" duration="67000" />
+      <workItem from="1643884216076" duration="208000" />
+      <workItem from="1643884521312" duration="13000" />
+      <workItem from="1643884545625" duration="43000" />
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added support for Microsoft's DI framework">
+      <created>1643884296274</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643884296274</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added support for Microsoft's DI framework">
+      <created>1643884331781</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643884331781</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added support for Microsoft's DI framework">
+      <created>1643884346501</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1643884346501</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added support for Microsoft's DI framework">
+      <created>1643884351966</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1643884351966</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Doc" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Doc" />
+    <MESSAGE value="Added support for Microsoft's DI framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added support for Microsoft's DI framework" />
   </component>
 </project>

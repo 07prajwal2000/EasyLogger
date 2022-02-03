@@ -1,9 +1,8 @@
-<h1>Easy Logger made Logging easy.</h1>
+<h1><u style="color: chocolate">"Easy Logger"</u> made Logging easy.</h1>
 
 <h2>Log to files as well as to consoles.</h2>
 
 <h4>This Project was made with my free time and will be released when i make changes to this project.</h4>
-<h6>For ASP.NET and Microsoft's Dependency Injection service Middleware will be released soon.</h6>
 
 ###Initialize the IEasyLogger interface with the FileLogger Instance.
 
@@ -11,9 +10,22 @@
 ```c#
 IEasyLogger easyLogger = new EasyFileLogger(Path.Combine(Environment.CurrentDirectory, "log.txt"));
 
-OR using Console Logger
+//OR using Console Logger
 
 IEasyLogger easyLogger = new EasyConsoleLogger();
+```
+
+```c#
+// For ASP.NET Applications add EasyLogger to Service Collection Container. 
+// By default uses Console logging
+builder.Services.AddEasyLogger();
+
+// Customize the Logging behaviour by providing options
+builder.Services.AddEasyLogger(options =>
+{
+    options.FilePath = "./[EASYLOGGER].txt";
+    options.LogOutputType = LogOutputType.WriteToFile;
+});
 ```
 
 <h4>then Log with Message</h4>

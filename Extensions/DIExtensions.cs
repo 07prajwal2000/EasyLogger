@@ -6,7 +6,7 @@ namespace EasyLogger.Extensions
     public static class DIExtensions
     {
         public static void AddEasyLogger(this IServiceCollection services, 
-            Action<EasyLoggerOptions> ConfigureOptions)
+            Action<EasyLoggerOptions> ConfigureOptions = null)
         {
             var options = new EasyLoggerOptions();
             ConfigureOptions?.Invoke(options);
