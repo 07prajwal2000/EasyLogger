@@ -1,0 +1,10 @@
+D:\Programming-Projects\EasyLogger\EasyLogger\bin\Debug\netstandard2.0\EasyLogger.deps.json
+D:\Programming-Projects\EasyLogger\EasyLogger\bin\Debug\netstandard2.0\EasyLogger.dll
+D:\Programming-Projects\EasyLogger\EasyLogger\bin\Debug\netstandard2.0\EasyLogger.pdb
+D:\Programming-Projects\EasyLogger\EasyLogger\obj\Debug\netstandard2.0\EasyLogger.csproj.AssemblyReference.cache
+D:\Programming-Projects\EasyLogger\EasyLogger\obj\Debug\netstandard2.0\EasyLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Projects\EasyLogger\EasyLogger\obj\Debug\netstandard2.0\EasyLogger.AssemblyInfoInputs.cache
+D:\Programming-Projects\EasyLogger\EasyLogger\obj\Debug\netstandard2.0\EasyLogger.AssemblyInfo.cs
+D:\Programming-Projects\EasyLogger\EasyLogger\obj\Debug\netstandard2.0\EasyLogger.csproj.CoreCompileInputs.cache
+D:\Programming-Projects\EasyLogger\EasyLogger\obj\Debug\netstandard2.0\EasyLogger.dll
+D:\Programming-Projects\EasyLogger\EasyLogger\obj\Debug\netstandard2.0\EasyLogger.pdb

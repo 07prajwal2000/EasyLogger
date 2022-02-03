@@ -18,17 +18,17 @@ namespace EasyLogger
     
         internal void LogInfo(string message)
         {
-            Log("INFO", message);
+            Log("[INFO]", message);
         }
     
-        internal void LogWarning(string message) => Log("WARNING", message);
+        internal void LogWarning(string message) => Log("[WARNING]", message);
 
         internal void LogError(string message)
         {
-            Log("ERROR", message);
+            Log("[ERROR]", message);
         }
     
-        internal void LogDebug(string message) => Log("DEBUG", message);
+        internal void LogDebug(string message) => Log("[DEBUG]", message);
 
         private void Log(string identifier, string message)
         {

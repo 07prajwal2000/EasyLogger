@@ -1,6 +1,6 @@
 ﻿namespace EasyLogger
 {
-    internal enum LogOutputType
+    public enum LogOutputType
     {
         WriteToFile,
         Console
