@@ -43,3 +43,12 @@ easyLogger.Log(message: "HELLO WORLD", logType: LogType.Warning);
 ```c#
 public enum LogType { Debug, Info, Warning, Error }
 ```
+
+```c#
+_easyLogger.Log("Log Message => INFO", LogType.Info);
+_easyLogger.Log("Log Message => DEBUG", LogType.Debug);
+_easyLogger.Log("Log Message => WARNING", LogType.Warning);
+_easyLogger.Log("Log Message => ERROR", LogType.Error);
+```
+<h3>Console Screenshot of Logs</h3>
+<img width="454" height="81" src="./Images/LogScreenshot.png">

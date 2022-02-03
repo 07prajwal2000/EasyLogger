@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming-Projects\\EasyLogger\\EasyLogger\\EasyLogger.csproj": {}
+    "D:\\Programming-Projects\\EasyLogger\\EasyLogger\\EasyLogger\\EasyLogger.csproj": {}
   },
   "projects": {
-    "D:\\Programming-Projects\\EasyLogger\\EasyLogger\\EasyLogger.csproj": {
+    "D:\\Programming-Projects\\EasyLogger\\EasyLogger\\EasyLogger\\EasyLogger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming-Projects\\EasyLogger\\EasyLogger\\EasyLogger.csproj",
+        "projectUniqueName": "D:\\Programming-Projects\\EasyLogger\\EasyLogger\\EasyLogger\\EasyLogger.csproj",
         "projectName": "EasyLogger",
-        "projectPath": "D:\\Programming-Projects\\EasyLogger\\EasyLogger\\EasyLogger.csproj",
+        "projectPath": "D:\\Programming-Projects\\EasyLogger\\EasyLogger\\EasyLogger\\EasyLogger.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming-Projects\\EasyLogger\\EasyLogger\\obj\\",
+        "outputPath": "D:\\Programming-Projects\\EasyLogger\\EasyLogger\\EasyLogger\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
